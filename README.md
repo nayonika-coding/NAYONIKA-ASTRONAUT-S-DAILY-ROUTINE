@@ -1,1 +1,2 @@
-# NAYONIKA-ASTRONAUT-S-DAILY-ROUTINE
+# C20_boilerplate
+boilerplate for teacher activity
